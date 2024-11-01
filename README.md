@@ -4,7 +4,7 @@ giffgaff APN 接入点参数
 
 用于解决giffgaff无信号，无法稳定驻网的问题
 
---
+'''
 <apn carrier="giffgaff"
       mcc="234"
       mnc="10"
@@ -26,4 +26,4 @@ giffgaff APN 接入点参数
       mvno_match_data="508"
       type="mms"
   />
-  --
+'''
