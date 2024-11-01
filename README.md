@@ -1,0 +1,1 @@
+# giffgaff-apn-setting
